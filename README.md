@@ -1,5 +1,5 @@
 ![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
-### Hola, Mi nombre es Tomas! 👋 :computer:
+<h1 align="center"> Hola, Mi nombre es Tomas! 👋 :computer: </h1>
 
 ```js
 const tomas0011 = {
@@ -23,9 +23,15 @@ const tomas0011 = {
 Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
 Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.
 
-*_Espero que esta breve introduccion demuestre un poco de lo que soy capaz:_*
+Espero que esta breve introduccion demuestre un poco de lo que soy capaz:
 
+<h2> Back To The 90's </h2>
 
+<hr/>
+
+<h2> BankAppMe </h2>
+
+<hr/>
 
 
 <!--
