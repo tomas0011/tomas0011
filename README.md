@@ -29,12 +29,44 @@ Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propi
 
 ![btt90s](https://user-images.githubusercontent.com/58223692/95638842-7aec8a00-0a6c-11eb-9643-20296c915a47.png)
 
+<h4> Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>Passport</li>
+</ul>
+
 <hr/>
 
 <h2> BankAppMe </h2>
 
+![BankAppMe](https://user-images.githubusercontent.com/58223692/95639279-3661ee00-0a6e-11eb-9976-7d597696652d.png)
+
+<h4> Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React-Native</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>Passport</li>
+</ul>
+Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
+
 <hr/>
 
+<h2> Me podes contactar en: </h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/tomasbvasquez/">LinkedIn</a></li>
+  <li><a href="https://www.codewars.com/users/tomas0011">CodeWars</a></li>
+</ul>
 
 <!--
 **tomas0011/tomas0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
