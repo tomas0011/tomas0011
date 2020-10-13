@@ -22,11 +22,11 @@ const tomas0011 = {
 ```
 
 <div align='center'>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tomas0011&show_icons=true" alt="tomas0011" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0011&layout=compact" alt="tomas0011" /></p>
+  <p style='display:inline;'>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tomas0011&show_icons=true" alt="tomas0011" /></p>
+  <p style='display:inline;'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0011&layout=compact" alt="tomas0011" /></p>
 </div>
 
-<div>
+<div style='background-color:black;'>
   <p>
     Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
     Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
