@@ -26,8 +26,6 @@ const tomas0011 = {
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0011&layout=compact" alt="tomas0011" /></p>
 </div>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 <div>
   <p>
     Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
