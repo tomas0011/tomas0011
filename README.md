@@ -20,10 +20,22 @@ const tomas0011 = {
   Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
 }
 ```
-Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.
 
-<strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
+<div align='center'>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tomas0011&show_icons=true" alt="tomas0011" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0011&layout=compact" alt="tomas0011" /></p>
+</div>
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<div>
+  <p>
+    Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
+    Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
+  </p>
+  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
+</div>
+
 
 <h2> Back To The 90's </h2>
 
@@ -67,6 +79,9 @@ Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
   <li><a href="https://www.linkedin.com/in/tomasbvasquez/">LinkedIn</a></li>
   <li><a href="https://www.codewars.com/users/tomas0011">CodeWars</a></li>
 </ul>
+
+<hr/>
+
 
 <!--
 **tomas0011/tomas0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
