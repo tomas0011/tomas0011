@@ -21,8 +21,6 @@ const tomas0011 = {
 }
 ```
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas0011&layout=compact" alt="tomas0011" /></p>
-
 <div>
   <p>
     Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
@@ -70,10 +68,21 @@ Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
 <hr/>
 
 <h2> Me podes contactar en: </h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/tomasbvasquez/">LinkedIn</a></li>
-  <li><a href="https://www.codewars.com/users/tomas0011">CodeWars</a></li>
-</ul>
+
+<p>
+    <a href="https://www.linkedin.com/in/tomasbvasquez/">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://www.codewars.com/users/tomas0011">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" />
+    </a>
+    <a href="https://twitter.com/benjamin_gnr">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
+    </a>
+    <a href="https://github.com/tomas0011">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+    </a>
+<p/>
 
 <hr/>
 
