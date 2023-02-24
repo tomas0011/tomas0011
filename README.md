@@ -5,19 +5,20 @@
 const tomas0011 = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-          {Python: ['Django']}
-        ],
+        { JavaScript: ['NestJs', 'NodeJs', 'Express', 'TypeORM', 'Sequelize', 'Loopback', 'Passport'] },
+        { Python: ['Django'] }
+      ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
+        { JavaScript: ['React', 'React-Native', 'Redux'] }
+      ]
     },
   Proyects: [
-      {BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      { BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport'] },
+      { BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport'] },
+      { BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport'] }
     ],
-  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby'],
-  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning']
+  FutureTecnologies: ['PHP', 'Python', 'Java', 'Go', 'Ruby', 'c#'],
+  Aspirations: ['AI', 'CloudComputing', 'IOT', 'MachineLearning', 'Videogames']
 }
 ```
 
